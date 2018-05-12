@@ -1,0 +1,27 @@
+_repo: Oudheid-en-MiddeleeuwenVerhalen-en-schetsen_29960
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Reinders, O. J.
+    gutenberg_agent_id: '34269'
+    url: http://www.gutenberg.org/2009/agents/34269
+  - agent_name: Nuiver, A.
+    gutenberg_agent_id: '34268'
+    url: http://www.gutenberg.org/2009/agents/34268
+description: ''
+gutenberg_issued: '2009-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29960'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'D'
+title: Oudheid en Middeleeuwen. Verhalen en schetsen
+url: http://www.gutenberg.org/ebooks/29960
